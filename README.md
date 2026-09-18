@@ -55,8 +55,8 @@ I build web applications end to end — from the database and the API to the int
 </picture>
 
 <picture>
-  <source srcset="https://streak-stats.demolab.com?user=Kovami&card_width=900&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <img src="https://streak-stats.demolab.com?user=Kovami&card_width=900" alt="GitHub streak" width="100%" />
+  <source srcset="https://streak-stats.demolab.com?user=Kovami&card_width=900&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <img src="https://streak-stats.demolab.com?user=Kovami&card_width=900&hide_border=true" alt="GitHub streak" width="100%" />
 </picture>
 
 ### 📫 Connect With Me
