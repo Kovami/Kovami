@@ -41,17 +41,17 @@
 ### 📊 Статистика GitHub
 
 <picture>
-  <source srcset="./profile-summary-card-output/tokyonight/0-profile-details.svg" media="(prefers-color-scheme: dark)" />
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
+  <source srcset="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/tokyonight/0-profile-details.svg" media="(prefers-color-scheme: dark)" />
+  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
 </picture>
 
 <picture>
-  <source srcset="./profile-summary-card-output/tokyonight/3-stats.svg" media="(prefers-color-scheme: dark)" />
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" />
+  <source srcset="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/tokyonight/3-stats.svg" media="(prefers-color-scheme: dark)" />
+  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/3-stats.svg" alt="Stats" />
 </picture>
 <picture>
-  <source srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" media="(prefers-color-scheme: dark)" />
-  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" />
+  <source srcset="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" media="(prefers-color-scheme: dark)" />
+  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" />
 </picture>
 <picture>
   <source
