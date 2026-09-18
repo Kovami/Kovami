@@ -16,19 +16,19 @@ I build web applications end to end — from the database and the API to the int
 
 ### 🛠 Tech Stack
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/nuxt-%2300DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs)
+[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/guide/introduction.html)
+[![Nuxt](https://img.shields.io/badge/nuxt-%2300DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white)](https://nuxt.com/docs)
+[![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/latest/)
+[![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/en/docs/)
+[![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://docs.kernel.org/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ci/)
 
 ### 📦 Projects
 
@@ -42,27 +42,21 @@ I build web applications end to end — from the database and the API to the int
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/tokyonight/0-profile-details.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
+  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%" />
 </picture>
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/tokyonight/3-stats.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/3-stats.svg" alt="Stats" width="49%" />
 </picture>
 <picture>
   <source srcset="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" />
+  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
 </picture>
+
 <picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=Kovami&card_width=350&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=Kovami&card_width=350"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com?user=Kovami&card_width=350" />
+  <source srcset="https://streak-stats.demolab.com?user=Kovami&card_width=900&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <img src="https://streak-stats.demolab.com?user=Kovami&card_width=900" alt="GitHub streak" width="100%" />
 </picture>
 
 ### 📫 Connect With Me
