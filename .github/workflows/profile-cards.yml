@@ -1,0 +1,25 @@
+name: Profile summary cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily, 07:00 in Kemerovo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      # The built-in token sees public activity only; a personal access token
+      # in a SUMMARY_GITHUB_TOKEN secret would add private repositories.
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 7
