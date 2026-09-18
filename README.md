@@ -41,6 +41,19 @@ I build web applications end to end — from the database and the API to the int
 ### 📊 GitHub Stats
 
 <picture>
+  <source srcset="./profile-summary-card-output/tokyonight/0-profile-details.svg" media="(prefers-color-scheme: dark)" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
+</picture>
+
+<picture>
+  <source srcset="./profile-summary-card-output/tokyonight/3-stats.svg" media="(prefers-color-scheme: dark)" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="Stats" />
+</picture>
+<picture>
+  <source srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" media="(prefers-color-scheme: dark)" />
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" />
+</picture>
+<picture>
   <source
     srcset="https://streak-stats.demolab.com?user=Kovami&card_width=350&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
