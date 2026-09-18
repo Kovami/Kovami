@@ -47,11 +47,11 @@ I build web applications end to end — from the database and the API to the int
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/tokyonight/3-stats.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/3-stats.svg" alt="Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/3-stats.svg" alt="Stats" width="49.7%" />
 </picture>
 <picture>
   <source srcset="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
+  <img src="https://raw.githubusercontent.com/Kovami/Kovami/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" width="49.7%" />
 </picture>
 
 <picture>
